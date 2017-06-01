@@ -22,3 +22,13 @@ The two photos below demonstrate how the cel shader looks when applied to variou
 
 ![Alt text](cel_shader2.PNG?raw=true "Gradient Mapping Editor")
 ![Alt text](cel_shader3.PNG?raw=true "Gradient Mapping Editor")
+
+### 3. Full Screen Effect
+
+This shader demonstrates a configurable full screen effect. The customization panel in Unity allows the developer to customize the shakiness, blurriness, and color of the full game screen. An "insanity" effect can be applied which makes the screen maximally shake and alters the colors of the screen over time.
+
+![Alt text](full_screen1.PNG?raw=true "Gradient Mapping Editor")
+
+This still screenshot demonstrates the blurriness and color effect:
+
+![Alt text](full_screen2.PNG?raw=true "Gradient Mapping Editor")
